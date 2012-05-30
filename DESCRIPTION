@@ -1,7 +1,7 @@
 Package: gppois
 Type: Package
 Title: Gaussian Processes for Poisson-noised Data
-Version: 0.2-0
+Version: 0.2-1
 Date: 2012-05-30
 Author: Charles R. Hogg III
 Maintainer: Charles R. Hogg III <charles.hogg@nist.gov>
@@ -19,6 +19,6 @@ Collate: 'Covariance.R' 'CovarianceNoise.R' 'CovarianceSE.R'
         'CovarianceSEVaryingEll.R' 'Dataset.R' 'LazyMatrix.R' 'Model.R'
         'geometry.R' 'gppois.R' 'layout.R' 'poisson.R' 'rgl.R'
         'utils.R' 'generics.R'
-Packaged: 2012-07-17 06:22:51 UTC; ripley
+Packaged: 2012-07-17 16:53:36 UTC; chogg
 Repository: CRAN
-Date/Publication: 2012-07-17 06:23:06
+Date/Publication: 2012-07-17 17:27:39

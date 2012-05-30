@@ -1,7 +1,7 @@
-70b9e19cc32b58810bd9651f2f23100d *DESCRIPTION
+b12e9ad8a6a9f6db6fdf4a0744766932 *DESCRIPTION
 584a00174dd874e68217fe79802fc581 *GPPois.R
 472f3fc0cee2fb7e2762801e4ab107dc *NAMESPACE
-344581509a40750953c9ddfd4d029220 *NEWS
+17ce0f7040f9fabf8031f724dcf36a0d *NEWS
 83224b3fa0841d08778f616ceb583433 *R/Covariance.R
 91aaf80d44d30ad34d94907e0cc445c3 *R/CovarianceNoise.R
 4cb8bfa824957ab060c83a32ecdb2b20 *R/CovarianceSE.R
@@ -18,10 +18,10 @@ b18e7161ed733ae341c1a446d1418603 *R/geometry.R
 655b7eac15f01cd990152a85f3509090 *R/poisson.R
 5925b4d7e051a69ecf181883c8928d1c *R/rgl.R
 57a6e3e10858bc831468877bc17eb5f6 *R/utils.R
-f3e0d69730e02e41dd7047b3ed0a54bb *data/flameSpeed.rda
-71a3fcfe2f00a351b28f91e7d1b7d7d7 *data/simXrayAu2nm.rda
-a45ea6a523300c5a31653ef1234a94ca *data/steelStrain.rda
-2933de7750b88fafa72f9857c2da6717 *data/xrayTiO2np20nm.rda
+2636667203a3ffddc96bcfdd94ff24bb *data/flameSpeed.rda
+057a91e7a9db254a197a8b58729ca4a3 *data/simXrayAu2nm.rda
+1751eb093389b01f29a3b7a18ead7caa *data/steelStrain.rda
+6ecde9f66d209b416fa716d154689a7b *data/xrayTiO2np20nm.rda
 47228cacc382afaf37d3071f4049362d *demo/00Index
 2082b3d550e23c10866dadf78bb9e064 *demo/flameSpeed.R
 82a95bffc5a4b1e3c28aee73828f63f8 *demo/steelStrain.R
